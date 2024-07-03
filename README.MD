@@ -4,13 +4,13 @@
 
 This template utilize **Draw.io, sheetjs, pdfkit and jszip** together.
 
-**'svg-to-svgpdf.js'** is for batch Raster PDF creation, and also put PNG into zip.
+**'svg-to-pngpdf.js'** is for batch Raster PDF creation, and also put PNG into zip.
 
-**'svg-to-pngpdf.js'** is for batch Vector PDF creation, and also put SVG into zip.
+**'svg-to-svgpdf.js'** is for batch Vector PDF creation, and also put SVG into zip.
 
 **'pdfDataReplace.js'** is for logic processing and replacing '@XXXX' fields in templates (svg from draw.io).
 
-**'processor.js'** is for handling other process for Excel, SVG template, PDF.
+**'processor.js'** is for handling all other looping processes.
 
 You may read, copy and edit upon this template to quickly create other PDF Mass generation tools, or Mass produce PNG/SVG.
 
@@ -32,13 +32,13 @@ You may read, copy and edit upon this template to quickly create other PDF Mass 
 4. **sheetjs** to read Excel sheet data and mass produce edited SVG
 5. **processor.js** to find and replace '@XXXX' fields with the data and export.
 6. **canvas** to generate PNG from SVG
-7. **PDFKIT** to generate Rasterized PDFs with custom font embed
-8. **PDFKIT** to generate Vectorized PDFs with custom font embed
+7. **PDFKIT** to generate Rasterized PDFs with custom font embed (system installed)
+8. **PDFKIT** to generate Vectorized PDFs with custom font embed (.otf)
 9. **jszip** to pack SVGs and PNGs into ZIP
 
 ### Known limitation:
 
 1. Do not support wrapping long text in text box yet, need heavy modification to svg-to-pdfkit to implement. Suggest adding auto break line function in processor.js or in Excel data source.
-2. Draw.io cannot use 'Formatted Text' option and 'Word Wrap' option, as this will create a 'foreignObject' which is only available in SVG 1.1, and not supported by svg-to-pdfkit.
+2. In Draw.io do not use 'Formatted Text' option or 'Word Wrap' option, as this will create a 'foreignObject' which is only available in SVG 1.1, and not supported by svg-to-pdfkit.
 3. Client do not need font to read generated Vectorized PDF, Rasterized PDF and PNG, but SVG is still editable and not have font embed. (Read tutorial page 2 for details).
-4. Do not use 'embed font' in draw.io's normal SVG export, as it will make the final Vector PDF massive. Use register font in PDFkit instead, like in this template.
+4. Do not choose 'embed font' option in draw.io's normal SVG export, as it will make the final Vector PDF massive. Use register font in PDFkit instead, like in this template.

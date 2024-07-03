@@ -1,11 +1,10 @@
 //blob-stream@0.1.3   //For PDFKit blob-stream
 //bootstrap@5.3.3     //For UI
 //buffer@6.0.3        //For buffer in Browser-Only
-//jquery@3.7.0
 //jszip@3.10.1        //For zip file
 //pdfkit@0.15.0       //For PDF Generation
 //sheetjs@0.20.2      //For Reading Excel rows
-//svg-to-pdfkit       //For PDFKit to load SVG
+//svg-to-pdfkit@0.1.8 //For PDFKit to load SVG
 
 var fileName = '';
 var svgRow = 1;

@@ -1,6 +1,6 @@
 # zGenPDF | A Template of easy 'Batch PDF Generation' & 'Mass produce PNG/SVG', with draw.io
 
-### This template showcases how to utilize Draw.io's features to create a sophisticated design with ease, turning it into a mass-producing tool capable of generating PNG/ SVG files. Additionally, this process allows for conversion of these designs into both vector and raster PDF.
+### Use Draw.io to easily create a template svg with sophisticated design, use it to generate PNG/ SVG files, and turn into both vector and raster PDF.
 
 This template utilize **Draw.io, sheetjs, pdfkit and jszip** together.
 
@@ -38,7 +38,7 @@ You may read, copy and edit upon this template to quickly create other PDF Mass 
 
 ### Known limitation:
 
-1. Do not support wrapping long text in text box yet, need heavy modification to svg-to-pdfkit to implement. Suggest adding auto break line function in processor.js or in Excel data source. Currently, if you really want wrapping text , you may do it in PDFKit during PDF generation, only use SVG template as background.
+1. Do not support wrapping long text in text box yet, need heavy modification to svg-to-pdfkit to implement. Suggest adding auto break line function in processor.js or in Excel data source.
 2. Draw.io cannot use 'Formatted Text' option and 'Word Wrap' option, as this will create a 'foreignObject' which is only available in SVG 1.1, and not supported by svg-to-pdfkit.
 3. Client do not need font to read generated Vectorized PDF, Rasterized PDF and PNG, but SVG is still editable and not have font embed. (Read tutorial page 2 for details).
 4. Do not use 'embed font' in draw.io's normal SVG export, as it will make the final Vector PDF massive. Use register font in PDFkit instead, like in this template.

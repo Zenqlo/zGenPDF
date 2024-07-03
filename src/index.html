@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zGenPDF @ Zenqlo</title>
+    <link rel="icon" type="image/png" href="zGen-64.png">
+    <script src="./bootstrap@5.3.3/js/bootstrap.bundle.min.js"></script>
+    <script src="./jszip@3.10.1/jszip.js"></script>
+    <script src="./sheetjs@0.20.2/xlsx.full.min.js"></script>
+    <script src="./pdfkit@0.15.0/pdfkit.standalone.js"></script>
+    <script src="./svg-to-pdfkit@0.1.8/source.js"></script>
+    <script src="./blob-stream@0.1.3/blob-stream.js"></script>
+    <script src="./buffer@6.0.3/buffer.js"></script>
+
+    <link rel="stylesheet" href="./bootstrap@5.3.3/css/bootstrap.css">
+</head>
+
+<body>
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-9 col-sm-9 col-md-9 col-lg-8 col-xl-7">
+                <div class="card shadow-lg rounded">
+                    <div class="card-header text-center bg-secondary text-white">zGenPDF @ Zenqlo</div>
+                    <div class="card-body">
+                        <div class="mb-3"></div>
+
+
+                        <form id="upload-form" class="text-center">
+                            <div class="mb-5">
+                                <input type="file" id="xlsx-file" accept=".xlsx" class="form-control" /><svg
+                                    xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                    class="bi bi-upload" viewBox="0 0 16 16">
+                                    <path
+                                        d="M.5 9.9a.5.5 0 0 1 .5.5v2.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1v-2.5a.5.5 0 0 1 1 0v2.5a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2v-2.5a.5.5 0 0 1 .5-.5z" />
+                                    <path
+                                        d="M7.646 1.146a.5.5 0 0 1 .708 0l3 3a.5.5 0 0 1-.708.708L8.5 2.707V11.5a.5.5 0 0 1-1 0V2.707L5.354 4.854a.5.5 0 1 1-.708-.708l3-3z" />
+                                </svg> Choose|选择 PDF
+                            </div>
+                            <div class="mb-5">
+                                <button type="submit" class="btn btn-success">
+                                    Sumbit | 确认提交
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="card shadow-lg rounded mt-5">
+                    <div class="card-header bg-secondary text-white">Console Log | 运行日志</div>
+                    <div class="card-body" id="console-log" style="white-space: pre-wrap;">
+                    </div>
+                </div>
+                <div class="row justify-content-center fade" id="loading">
+                    <p></p>
+                    <div class="spinner-border text-center" style="text-align:center; width: 3rem; height: 3rem;"
+                        role="status">
+                        <span class="sr-only"></span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <footer class="text-center py-3">
+        <div class="container">
+            <p class="mb-0">&copy; 2024 | zGenPDF @ Zenqlo . All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+
+<script defer src="processor.js"></script>
+<script defer src="pdfDataReplace.js"></script>
+<script defer src="svg-to-pngpdf.js"></script>
+<script defer src="svg-to-svgpdf.js"></script>
+
+<script defer>
+    //Event listener for uploaded XLSX file using FileReader and XLSX library, 
+    //extracts the first worksheet's data as JSON, 
+    //and processes it with the processData function.
+    document.getElementById('upload-form').addEventListener('submit', function (e) {
+        e.preventDefault();
+        var file = document.getElementById('xlsx-file').files[0];
+        fileName = file.name.split('.').slice(0, -1).join('.');
+        var reader = new FileReader();
+        reader.onload = function (e) {
+            var data = new Uint8Array(e.target.result);
+            var workbook = XLSX.read(data, { type: 'array' });
+            var sheetName = workbook.SheetNames[0];
+            var worksheet = workbook.Sheets[sheetName];
+            var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+            processData(jsonData);
+        };
+        reader.readAsArrayBuffer(file);
+    });
+    ////////////////////////////////////////////////////////////////////////
+    //Console.log
+    (async function () {
+        var oldLog = console.log;
+        var oldErr = console.error;
+
+        console.log = async function () {
+            var message = await Array.prototype.map.call(arguments, function (arg) {
+                if (typeof arg === 'string') {
+                    return arg;
+                } else {
+                    return JSON.stringify(arg);
+                }
+            }).join(' ');
+
+            var consoleLog = await document.getElementById('console-log');
+            var logNode = await document.createTextNode(message + '\n');
+            await consoleLog.appendChild(logNode);
+
+            await oldLog.apply(console, arguments);
+
+            setTimeout(function () {
+                window.scrollTo(0, document.body.scrollHeight);
+            }, 100);
+        };
+
+        console.error = async function () {
+            var consoleLog = document.getElementById('console-log');
+            if (!consoleLog) {
+                // Create the div for logging only once, this is more efficient.
+                const divElement = document.createElement('div');
+                divElement.id = 'console-log';
+                document.body.appendChild(divElement);
+                consoleLog = document.getElementById('console-log');
+            }
+
+            var errNode = document.createElement('div');
+            errNode.textContent += '';
+            for (let i = 0; i < arguments.length; i++) {
+                if (!isNaN(parseFloat(arguments[i]))) {
+                    errNode.textContent += JSON.stringify(arguments[i]);
+                } else {
+                    errNode.textContent += arguments[i];
+                }
+            }
+
+            consoleLog.appendChild(errNode);
+
+            await oldErr.apply(console, arguments);
+
+            setTimeout(function () {
+                window.scrollTo(0, document.body.scrollHeight);
+            }, 100);
+        };
+    })();
+</script>
+
+
+</html>

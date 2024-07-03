@@ -1,0 +1,869 @@
+<mxfile host="Electron" modified="2024-07-03T12:13:31.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="ZGVK1RTPZXL9Povc0IuO" compressed="false" version="24.6.4" type="device">
+  <diagram name="RVoucherWANGTAT" id="RVoucherWANGTAT">
+    <mxGraphModel dx="2252" dy="902" grid="1" gridSize="5" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="520" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zL1-28" value="" style="rounded=0;fillColor=none;strokeWidth=2;fontFamily=Noto Sans SC;fontColor=none;noLabel=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="114" y="125" width="875" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-88" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;strokeWidth=2;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="788" y="474" as="sourcePoint" />
+            <mxPoint x="788" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-81" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="924" y="474" as="sourcePoint" />
+            <mxPoint x="924" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-82" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;strokeWidth=2;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="908" y="474" as="sourcePoint" />
+            <mxPoint x="908" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-1" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748" y="474.25" as="sourcePoint" />
+            <mxPoint x="748" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-2" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="768" y="474.25" as="sourcePoint" />
+            <mxPoint x="768" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-3" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;strokeWidth=2;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="788" y="474.25" as="sourcePoint" />
+            <mxPoint x="788" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-4" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808" y="474.25" as="sourcePoint" />
+            <mxPoint x="808" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-5" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="828" y="474.25" as="sourcePoint" />
+            <mxPoint x="828" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-6" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;strokeWidth=2;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="848" y="474.25" as="sourcePoint" />
+            <mxPoint x="848" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-7" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="868" y="474.25" as="sourcePoint" />
+            <mxPoint x="868" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvR4GDjlnQsUwczoWZHz-8" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="888" y="474.25" as="sourcePoint" />
+            <mxPoint x="888" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="@R1GE" placeholders="1" name="Row1GenLeg" id="LW-15">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="488" y="205" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R2GE" placeholders="1" name="Row2GenLeg" id="LW-16">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="488" y="245" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R3GE" placeholders="1" name="Row3GenLeg" id="LW-17">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="488" y="285" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R4GE" placeholders="1" name="Row4GenLeg" id="LW-18">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="488" y="325" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R5GE" placeholders="1" name="Row5GenLeg" id="LW-19">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="488" y="365" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R6GE" placeholders="1" name="Row6GenLeg" id="LW-20">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="488" y="405" width="100" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R1SU" placeholders="1" name="Row1SubLeg" id="LW-21">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="588" y="205" width="137" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R2SU" placeholders="1" name="Row2SubLeg" id="LW-27">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="588" y="245" width="137" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R3SU" placeholders="1" name="Row3SubLeg" id="LW-28">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="588" y="285" width="137" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R4SU" placeholders="1" name="Row4SubLeg" id="LW-29">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="588" y="325" width="137" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R5SU" placeholders="1" name="Row5SubLeg" id="LW-30">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="588" y="365" width="137" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R6SU" placeholders="1" name="Row6SubLeg" id="LW-31">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="588" y="405" width="137" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R1PR" placeholders="1" name="Row1PR" id="Wf-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=10;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="938" y="205" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R2PR" placeholders="1" name="Row2PR" id="Wf-3">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=10;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="939" y="245" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R3PR" placeholders="1" name="Row3PR" id="Wf-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=10;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="939" y="285" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R4PR" placeholders="1" name="Row4PR" id="Wf-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=10;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="938" y="325" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R5PR" placeholders="1" name="Row5PR" id="Wf-6">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=10;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="938" y="365" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R6PR" placeholders="1" name="Row6PR" id="Wf-7">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=10;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="938" y="405" width="50" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zL2-45" value="合 计" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="133" y="450.25" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-46" value="TOTAL" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="183" y="449.75" width="75" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-68" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941" y="245" as="sourcePoint" />
+            <mxPoint x="988" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-69" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941.5" y="285" as="sourcePoint" />
+            <mxPoint x="988.5" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-70" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941.5" y="325" as="sourcePoint" />
+            <mxPoint x="988.5" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-71" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941.5" y="365" as="sourcePoint" />
+            <mxPoint x="988.5" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-72" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941.5" y="405" as="sourcePoint" />
+            <mxPoint x="988.5" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-67" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="405" as="sourcePoint" />
+            <mxPoint x="937" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-66" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="365" as="sourcePoint" />
+            <mxPoint x="937" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-65" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="325" as="sourcePoint" />
+            <mxPoint x="937" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-64" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="285" as="sourcePoint" />
+            <mxPoint x="937" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-63" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="245" as="sourcePoint" />
+            <mxPoint x="937" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-70" value="" style="endArrow=none;rounded=0;fontColor=#CC00FF;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="445" as="sourcePoint" />
+            <mxPoint x="488" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-47" value="" style="endArrow=none;rounded=0;fontColor=none;strokeColor=#CC00FF;noLabel=1;labelBackgroundColor=none;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269" y="474.5" as="sourcePoint" />
+            <mxPoint x="269" y="445.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-2" value="付 款 凭 证" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=35;" parent="1" vertex="1">
+          <mxGeometry x="348" y="9" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-3" value="PAYMENT VOUCHER" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="351" y="51" width="400" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-8" value="" style="endArrow=none;rounded=0;labelBackgroundColor=none;fontColor=none;noLabel=1;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428" y="70" as="sourcePoint" />
+            <mxPoint x="668" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-9" value="" style="endArrow=none;rounded=0;labelBackgroundColor=none;fontColor=none;noLabel=1;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="428" y="75" as="sourcePoint" />
+            <mxPoint x="668" y="75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-29" value="日期 :" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="428" y="75" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-30" value="DATE :" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="428" y="92" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-32" value="年" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="539" y="78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-33" value="月" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="586" y="78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-34" value="日" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="633" y="78" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-40" value="号" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="844" y="7" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-42" value="总" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="768" y="7" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-44" value="第" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="768" y="41" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-45" value="号" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="844" y="41" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-46" value="账号" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="768" y="75" width="35" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-50" value="" style="endArrow=none;rounded=0;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="979" y="115" as="sourcePoint" />
+            <mxPoint x="814" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-52" value="贷方科目" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="139" y="12" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-53" value="CREDIT ACCOUNT" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="139" y="33.5" width="130" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-54" value="" style="endArrow=none;rounded=0;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="51" as="sourcePoint" />
+            <mxPoint x="255" y="50.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-56" value="开户银行" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="140" y="67" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-57" value="BANK" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="140" y="87.5" width="35" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-58" value="" style="endArrow=none;rounded=0;entryX=0.343;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=none;noLabel=1;labelBackgroundColor=none;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="398" y="105" as="sourcePoint" />
+            <mxPoint x="184.59000000000003" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-68" value="摘 要" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="171.5" y="151" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-69" value="EXPLAINATION" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="273" y="155.75" width="160" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-66" value="" style="endArrow=none;rounded=0;exitX=0;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="113" y="205" as="sourcePoint" />
+            <mxPoint x="725" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-71" value="借 方 科 目" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="496" y="135" width="105" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-72" value=" DEBIT ACCOUNT" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="595" y="144" width="125" height="20.25" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-75" value="金 额" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="790.5" y="133" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-76" value="AMOUNT" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="790" y="149.5" width="110" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-78" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="488" y="175" as="sourcePoint" />
+            <mxPoint x="725" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-79" value="记账" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="943" y="150" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-80" value="P.R." style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="949" y="167" width="30" height="20.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-83" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="888" y="474" as="sourcePoint" />
+            <mxPoint x="888" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-84" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="868" y="474" as="sourcePoint" />
+            <mxPoint x="868" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-85" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;strokeWidth=2;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="848" y="474" as="sourcePoint" />
+            <mxPoint x="848" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-86" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="828" y="474" as="sourcePoint" />
+            <mxPoint x="828" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-87" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="808" y="474" as="sourcePoint" />
+            <mxPoint x="808" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-89" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="768" y="474" as="sourcePoint" />
+            <mxPoint x="768" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-90" value="" style="endArrow=none;rounded=0;fontColor=#000000;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748" y="474" as="sourcePoint" />
+            <mxPoint x="748" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-91" value="元" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="888" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-93" value="十" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="868" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-94" value="百" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="848" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-95" value="千" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="828" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-97" value="万" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="808" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-98" value="十" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="788" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-99" value="百" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="768" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-100" value="千" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="748" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-102" value="亿" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="728" y="180.25" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-104" value="角" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="909" y="181" width="15" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-105" value="分" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="923" y="183" width="15" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-106" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="175" as="sourcePoint" />
+            <mxPoint x="937" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-107" value="" style="endArrow=none;rounded=0;fontColor=#CC00FF;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="588.5" y="445.25" as="sourcePoint" />
+            <mxPoint x="588.5" y="175.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-108" value="" style="endArrow=none;rounded=0;fontColor=none;strokeColor=#CC00FF;strokeWidth=2;noLabel=1;labelBackgroundColor=none;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="345.75" as="sourcePoint" />
+            <mxPoint x="60" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-114" value="附" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="164.38" width="25" height="25.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-115" value="张" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1018" y="265" width="25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL1-116" value="A T T A C H M E N T S" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;horizontal=1;rotation=90;spacing=2;" parent="1" vertex="1">
+          <mxGeometry x="943.5" y="238.75" width="224" height="17.25" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-1" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="245" as="sourcePoint" />
+            <mxPoint x="725" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-2" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="284.33" as="sourcePoint" />
+            <mxPoint x="725" y="284.33" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-3" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="325" as="sourcePoint" />
+            <mxPoint x="725" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-4" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="365" as="sourcePoint" />
+            <mxPoint x="725" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-5" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="405" as="sourcePoint" />
+            <mxPoint x="724.81" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL1-73" value="" style="endArrow=none;rounded=0;fontColor=none;strokeColor=#000000;shape=link;labelBackgroundColor=none;noLabel=1;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="727" y="475" as="sourcePoint" />
+            <mxPoint x="727" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-6" value="" style="endArrow=none;rounded=0;strokeColor=#CC00FF;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729" y="205" as="sourcePoint" />
+            <mxPoint x="937" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-7" value="" style="endArrow=none;rounded=0;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941" y="205" as="sourcePoint" />
+            <mxPoint x="988" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-8" value="" style="endArrow=none;rounded=0;exitX=0;exitY=0.189;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="113" y="445" as="sourcePoint" />
+            <mxPoint x="725" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-9" value="" style="endArrow=none;rounded=0;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="729.5" y="445" as="sourcePoint" />
+            <mxPoint x="936.5" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-10" value="" style="endArrow=none;rounded=0;fontStyle=0" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="941" y="445" as="sourcePoint" />
+            <mxPoint x="989" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zL2-19" value="总账科目" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="505" y="175.25" width="67" height="18.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-20" value="明细科目" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="623.5" y="176.25" width="68" height="16.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-23" value="GEN.LEG.A/C" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="509" y="193.25" width="59" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-28" value="SUB.LEG.A/C" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="628" y="193.25" width="59" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-49" value="亿" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="308" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-50" value="仟" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="348" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-51" value="分" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="705" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-53" value="角" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="668" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-54" value="元" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="628" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-56" value="拾" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="587" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-57" value="佰" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="548" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-58" value="仟" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="509" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-59" value="万" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="468" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-60" value="拾" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="428" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-61" value="佰" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="388" y="445" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-73" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#CC00FF;fontColor=none;noLabel=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1080" y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-74" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#CC00FF;fontColor=none;noLabel=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1080" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-75" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#CC00FF;fontColor=none;noLabel=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-76" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#CC00FF;fontColor=none;noLabel=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry y="500" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-79" value="PREPARED" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="688" y="491" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-80" value="出 纳 :" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="548" y="477" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-81" value="交款人 :" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="848" y="477" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-84" value="PAYER" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="848" y="491" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-85" value="制 单 :" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="688" y="477" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-86" value="CASHIER" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="548" y="491" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-87" value="记 账 :" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="408" y="477" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-88" value="ENTERED" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="408" y="491" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-92" value="复 核 :" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="268" y="477" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-93" value="CHECKED" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="268" y="491" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-94" value="核 准 :" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="113" y="477" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zL2-95" value="APPROVED" style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="113" y="491" width="65" height="25" as="geometry" />
+        </mxCell>
+        <UserObject label="@Key" placeholders="1" name="VoucherNo" id="Zvar-13">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=18;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="783" y="43" width="65" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@YYYY" placeholders="1" name="VoucherYYYY" id="Zvar-14">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=18;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="493" y="82" width="55" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@M" placeholders="1" name="VoucherMM" id="Zvar-15">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=18;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="558" y="82" width="35" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@D" placeholders="1" name="VoucherDD" id="Zvar-16">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=18;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="607" y="82" width="34" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@CredAcc" placeholders="1" name="DebitAcc" id="AE-2">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+            <mxGeometry x="255" y="18" width="160" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@ACno" placeholders="1" name="AccNo" id="AE-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="813" y="90" width="215" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@Gen" placeholders="1" name="GenNo" id="AE-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=18;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="783" y="9" width="65" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@BankName" placeholders="1" name="BankName" id="AE-6">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=15;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+            <mxGeometry x="208" y="65" width="210" height="39" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R1EX" placeholders="1" name="Row1Explain" id="AE-7">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=15;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="118" y="205" width="370" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R2EX" placeholders="1" name="Row2Explain" id="AE-8">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=15;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="118" y="245" width="370" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R3EX" placeholders="1" name="Row3Explain" id="AE-9">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=15;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="118" y="285" width="370" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R4EX" placeholders="1" name="Row4Explain" id="AE-10">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=15;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="118" y="325" width="370" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R5EX" placeholders="1" name="Row5Explain" id="AE-11">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=15;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="118" y="365" width="370" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R6EX" placeholders="1" name="Row6Explain" id="AE-12">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=15;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="118" y="405" width="370" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@TPR" placeholders="1" name="TotalPR" id="Wf-8">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=7.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="939" y="444" width="50" height="31" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@AT" placeholders="1" name="AttachNo" id="Wf-9">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;overflow=hidden;fontSize=16;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="996" y="240" width="49" height="25" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="BGZE2S2wVkJwEniJPUoC-1" value="GEN NO." style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="768" y="26" width="75" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BGZE2S2wVkJwEniJPUoC-2" value="VOUCHER NO." style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="768" y="60" width="115" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="BGZE2S2wVkJwEniJPUoC-3" value="A/C NO." style="text;align=left;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="768" y="94" width="84" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="QKJrEbR_S-BOB_zZHDbn-1" value="单" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="185" width="25" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="QKJrEbR_S-BOB_zZHDbn-2" value="据" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="1019" y="209" width="25" height="26.5" as="geometry" />
+        </mxCell>
+        <UserObject label="@R1AM" placeholders="1" name="Row1Amount" id="LW-1">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=25.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="726" y="205" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R2AM" placeholders="1" name="Row2Amount" id="LW-4">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=25.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="726" y="245" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R3AM" placeholders="1" name="Row3Amount" id="LW-6">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=25.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="726" y="285" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R4AM" placeholders="1" name="Row4Amount" id="LW-8">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=25.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="726" y="325" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R5AM" placeholders="1" name="Row5Amount" id="LW-10">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=25.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="726" y="365" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R6AM" placeholders="1" name="Row6Amount" id="LW-12">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=25.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="726" y="405" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@TAM" placeholders="1" name="TotalAmount" id="LW-14">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=25.5;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="726" y="438" width="180" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R1D" placeholders="1" name="Row1AmountDecimal" id="Zvar-11">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#666666;spacing=0;" parent="1" vertex="1">
+            <mxGeometry x="908" y="210" width="30" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R2D" placeholders="1" name="Row2AmountDecimal" id="LW-3">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#666666;spacing=0;" parent="1" vertex="1">
+            <mxGeometry x="908" y="250" width="30" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R3D" placeholders="1" name="Row3AmountDecimal" id="LW-5">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#666666;spacing=0;" parent="1" vertex="1">
+            <mxGeometry x="908" y="290" width="30" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R4D" placeholders="1" name="Row4AmountDecimal" id="LW-7">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#666666;spacing=0;" parent="1" vertex="1">
+            <mxGeometry x="908" y="330" width="30" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R5D" placeholders="1" name="Row5AmountDecimal" id="LW-9">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#666666;spacing=0;" parent="1" vertex="1">
+            <mxGeometry x="908" y="370" width="30" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@R6D" placeholders="1" name="Row6AmountDecimal" id="LW-11">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#666666;spacing=0;" parent="1" vertex="1">
+            <mxGeometry x="908" y="410" width="30" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@TD" placeholders="1" name="TotalAmountDecimal" id="LW-13">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;overflow=hidden;fontSize=20;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#666666;spacing=0;" parent="1" vertex="1">
+            <mxGeometry x="908" y="443" width="30" height="35" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="zL1-74" value="" style="endArrow=none;rounded=0;exitX=0.943;exitY=0.998;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=none;strokeColor=#000000;shape=link;labelBackgroundColor=none;noLabel=1;fontStyle=0" parent="1" source="zL1-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="938" y="456" as="sourcePoint" />
+            <mxPoint x="939" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="neDlJwiNS8Mi9RilVBbD-1" value="" style="rounded=0;strokeColor=none;fontSize=13;fontColor=none;fillColor=#CC00FF;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1090" width="10" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="du1R7ySl6t3l3l66S2wT-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#9933FF;strokeWidth=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="20" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="du1R7ySl6t3l3l66S2wT-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#9933FF;strokeWidth=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="20" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="du1R7ySl6t3l3l66S2wT-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#9933FF;strokeWidth=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1060" y="480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="du1R7ySl6t3l3l66S2wT-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#9933FF;strokeWidth=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="1060" y="20" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta7VFmCEvuFQscMaBvFt-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=none;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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Uk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAJSUExURQAAAP///xRoqf7+//v8/vr7/fX4/Ozy+Pb5/Pn7/fz9/gBTnQBRnABWnwBVngBUnZa72abF3qzJ4bDM47rS5sjb69Li79/q8+Dr9O3z+ABbogBaoQBZoAFcogJeogJdogJboQRdowVfpAVeowZfpAdgpAheowlhpQpipgphpQpipQxjpg1kpw5kpxBlqBBlpxFmqBNoqRNnqRRnqRVpqRVoqRZpqhdqqhlrqxtsrBtsqx1trB1urB5urSBwrSBvrSFxriJxriNyriVzryd0sCh1sCl2sSt3sit2sS14si95szB6szF7tDJ7tDN8tDV9tTZ+tTd+tjh/tjmAtzuBuDuBtzyCtzyBtz2DuD+EuT+DuUCEuUKFukOGukaIu0eJvEmKvUiJvE2Mvk6Nv0+Ov1COv1GPwFORwFWSwVeTwleTwViTwlmUwlqVw1yWw12XxF6XxGCZxV+YxGGaxWObxmScxmSbxmeex2edx2mfyGugyWyhyW+iynCjynGky3OlzHOly3WmzHeozXenzXioznqqzn2rz4Cu0X+s0IOw0oOv0oWx0omz1Iq01I221o621o221Y211Y621ZC415K515W72Je82Zq+2p7B3J3A26HD3aLD3aXF3qjH36rJ4K3K4a/M4rLO47TP5LTP47bQ5LjR5bnS5b3V577V58DX6MTZ6cnc68ve7Mze7NDh7tXk8NTj79Xk79fl8Nrn8ePt9ebv9unx9/D1+fP3+sPZ6cbb6tnn8dzp8uDr8+Hs9OTu9e/1+ff6/PX5+/r8/f3+/v///5edewEAAADGdFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////AMYa5+oAAAAJcEhZcwAALiMAAC4jAXilP3YAAAVCaVRYdFhNTDpjb20uYWRvYmUueG1wAAAAAAA8P3hwYWNrZXQgYmVnaW49Iu+7vyIgaWQ9Ilc1TTBNcENlaGlIenJlU3pOVGN6a2M5ZCI/PiA8eDp4bXBtZXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA5LjEtYzAwMiA3OS5hNmE2Mzk2LCAyMDI0LzAzLzEyLTA3OjQ4OjIzICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXBSaWdodHM9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9yaWdodHMvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyIgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIiB4bWxuczpwaG90b3Nob3A9Imh0dHA6Ly9ucy5hZG9iZS5jb20vcGhvdG9zaG9wLzEuMC8iIHhtcFJpZ2h0czpNYXJrZWQ9IlRydWUiIHhtcFJpZ2h0czpXZWJTdGF0ZW1lbnQ9IlpFTlFMTy5DT00iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo5NTU4MzVmOS0xNDVhLTc1NGYtYmRmYy1iMDdmOTM2ZjJjODkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6Q0IwRTk1MzhDODBEREI0NjhCQkVEOEUwNEU2Q0VEOEEiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OTBGOEMyN0UzOURCQjk0MUIxQ0E1OEZCQTIyRUE2MEUiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDI0LjcgKFdpbmRvd3MpIiBwaG90b3Nob3A6QXV0aG9yc1Bvc2l0aW9uPSJaRU5RTE8i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;rotation=90;fontColor=none;noLabel=1;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="68" y="253.75" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="Ta7VFmCEvuFQscMaBvFt-4" value="© zPDF-Gen" style="text;align=center;verticalAlign=middle;rounded=0;fontFamily=Noto Serif SC;fontColor=#CC00FF;fontStyle=0;fontSize=16;rotation=90;spacing=2;spacingBottom=0;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-3" y="253.25" width="102" height="20.5" as="geometry" />
+        </mxCell>
+        <UserObject label="@0" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-9">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="600" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@Z" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-10">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;labelBackgroundColor=none;" parent="1" vertex="1">
+            <mxGeometry x="679" y="448.75" width="28" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@X" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-11">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;labelBackgroundColor=none;" parent="1" vertex="1">
+            <mxGeometry x="642.5" y="448.75" width="28" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@1" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-12">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="559" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@2" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-13">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="520" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@3" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-14">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="481" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@4" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-15">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="440" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@5" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-16">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="400" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@6" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-17">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="360" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@7" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-18">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="320" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="@8" placeholders="1" name="TotalAmount" id="aB9p8zpYrRsndyiXaSZX-19">
+          <mxCell style="text;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;overflow=hidden;fontSize=18.8;fontStyle=2;fontFamily=Noto Sans SC;fontColor=#000000;spacing=2;" parent="1" vertex="1">
+            <mxGeometry x="280" y="448.5" width="29" height="23" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
